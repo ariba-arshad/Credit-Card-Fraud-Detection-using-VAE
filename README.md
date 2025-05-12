@@ -11,11 +11,9 @@ credit card fraud detection dataset 2023 from Kaggle
 
 🚀 VAE Architecture
 
-Encoder compresses input into latent vector with mean and variance.
-
-Decoder reconstructs image from sampled latent vector.
-
-Loss = Reconstruction Loss + KL Divergence
+- Encoder compresses input into latent vector with mean and variance.
+- Decoder reconstructs image from sampled latent vector.
+- Loss = Reconstruction Loss + KL Divergence
 
 More information is given in Architecture.pdf
 
