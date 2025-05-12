@@ -1,1 +1,2 @@
-# Credit-Card-Fraud-Detection-using-VAE
+# Credit Card Fraud Detection using VAE
+
